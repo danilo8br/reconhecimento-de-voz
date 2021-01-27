@@ -10,7 +10,7 @@ with sr.Microphone() as fonte:
     # Capturando o audio
     audio = r.listen(fonte)
     try:
-        # Transoformando o audio em texto
+        # Transformando o audio em texto
         print('Você disse: ' + r.recognize_google(audio, language='pt-BR')) 
     except:
         print('Não foi possivel compreender o áudio')
