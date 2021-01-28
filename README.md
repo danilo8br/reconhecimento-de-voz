@@ -1,4 +1,4 @@
-![voz](https://user-images.githubusercontent.com/51414398/106074608-e6756880-60ea-11eb-8bbd-e6fa20e03378.jpg)
+![1_OCPpp4VdniwJxlWKn63Zcg](https://user-images.githubusercontent.com/51414398/106143998-579c3680-6152-11eb-86db-084c64ae8a65.jpeg)
 
 <h1 align="center">Speech Recogntion</h1>
 
