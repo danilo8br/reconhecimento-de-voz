@@ -1,4 +1,5 @@
-![som-oscilante-onda-brilhante-musica-colorida-forma-de-onda-da-tecnologia-de-assistente-de-reconhecimento-de-voz-ilustracao-em-vetor-conceito-computador-equalizador-audio-digital_115739-453](https://user-images.githubusercontent.com/51414398/106074476-b0d07f80-60ea-11eb-8476-8977ed670c8e.jpg)
+![1_OCPpp4VdniwJxlWKn63Zcg](https://user-images.githubusercontent.com/51414398/106074517-c3e34f80-60ea-11eb-8db0-46064ab53207.jpeg)
+
 
 <h1 align="center">Speech Recogntion</h1>
 
