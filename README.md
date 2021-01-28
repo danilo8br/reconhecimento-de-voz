@@ -4,10 +4,10 @@
 
 <p align="center">Speech recognition with Python language and the speech_recognition library.</p>
 
-# About the project
+## About the project
 
 This project was created to see how speech recognition works using the Python language.
 
-# How it works?
+## How it works?
 
 The user will say something in the microphone, and Python will understand and write what the user is saying.
