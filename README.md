@@ -11,3 +11,9 @@ This project was created to see how speech recognition works using the Python la
 ## How it works?
 
 The user will say something in the microphone, and Python will understand and write what the user is saying.
+
+## Prerequisites
+
+## Why?
+
+Just to practice my Python skills more and and see how the library works.
