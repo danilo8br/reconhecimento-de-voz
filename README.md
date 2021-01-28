@@ -5,3 +5,7 @@
 <h1 align="center">Speech Recogntion</h1>
 
 <p align="center">Speech recognition with Python language and the speech_recognition library.</p>
+
+# About the project
+
+This project was created to see how speech recognition works using the Python language.
