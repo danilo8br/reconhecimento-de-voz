@@ -12,8 +12,12 @@ This project was created to see how speech recognition works using the Python la
 
 The user will say something in the microphone, and Python will understand and write what the user is saying.
 
-## Prerequisites
-
 ## Why?
 
 Just to practice my Python skills more and and see how the library works.
+
+## Prerequisites
+
+pip install SpeechRecognition
+
+And you need to install Pyaudio compatible with your computer at this link: https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
