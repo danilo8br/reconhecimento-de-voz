@@ -20,4 +20,6 @@ Just to practice my Python skills more and and see how the library works.
 
 pip install SpeechRecognition
 
-And you need to install Pyaudio compatible with your computer at this link: https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+You need to install Pyaudio compatible with your computer at this link: https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+
+And finally, just install the file you downloaded like this: pip install (the file you downloaded)
