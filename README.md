@@ -8,15 +8,15 @@
 
 This project was created to see how speech recognition works using the Python language.
 
-## How it works?
+## :wrench: How it works?
 
 The user will say something in the microphone, and Python will understand and write what the user is saying.
 
-## Why?
+## :question: Why?
 
 Just to practice my Python skills more and and see how the library works.
 
-## Prerequisites
+## :warning: Prerequisites
 
 - pip install SpeechRecognition.
 
