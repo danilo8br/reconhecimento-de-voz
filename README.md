@@ -1,4 +1,4 @@
-![Modelo-usa-cinco-segundos-de-fala-para-imitar-voz](https://user-images.githubusercontent.com/51414398/106071360-f38f5900-60e4-11eb-865c-098c6d235b86.jpg)
+![20190722094523-scaled](https://user-images.githubusercontent.com/51414398/106073737-639fde00-60e9-11eb-9fcd-67bcf477e502.jpg)
 
 <h1 align="center">Speech Recogntion</h1>
 
