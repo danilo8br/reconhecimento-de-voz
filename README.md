@@ -1,4 +1,4 @@
-![20190722094523-scaled](https://user-images.githubusercontent.com/51414398/106073737-639fde00-60e9-11eb-9fcd-67bcf477e502.jpg)
+![som-oscilante-onda-brilhante-musica-colorida-forma-de-onda-da-tecnologia-de-assistente-de-reconhecimento-de-voz-ilustracao-em-vetor-conceito-computador-equalizador-audio-digital_115739-453](https://user-images.githubusercontent.com/51414398/106074476-b0d07f80-60ea-11eb-8476-8977ed670c8e.jpg)
 
 <h1 align="center">Speech Recogntion</h1>
 
