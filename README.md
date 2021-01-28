@@ -7,3 +7,7 @@
 # About the project
 
 This project was created to see how speech recognition works using the Python language.
+
+# How it works?
+
+The user will say something in the microphone, and Python will understand and write what the user is saying.
